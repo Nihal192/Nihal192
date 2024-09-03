@@ -12,10 +12,11 @@ Highly motivated and results-driven Software Engineering professional with a str
 ## 🛠 Skills
 
 Cloud :
-
 - AWS (Lambda, S3, DynamoDB), Google Cloud
+   
 Languages:
 - Java, Python, C++, JavaScript
+
 Web Development:
 - Frontend: React.js, Tailwind, JavaScript (Vanilla.js)
 - Backend: Node.js, Express.js, Django, SpringBoot
