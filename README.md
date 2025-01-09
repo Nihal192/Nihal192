@@ -1,12 +1,12 @@
 
 # Hi, I'm Nihal! 👋
 
-- Software Eningeer at City of Boston
+- Data Eningeer at City of Boston
 - Pursuing masters in Information Technology from Umass Boston
 
 
 ## 🚀 About Me
-Highly motivated and results-driven Software Engineering professional with a strong academic background and practical experience in software development. Student in Master of Science graduate in Information Technology from the University of Massachusetts, Boston, and a Bachelor of Computer Engineering degree holder from Gujarat Technological University, India, I possess a solid foundation in various programming languages, database management systems, and web technologies. I am actively seeking a full-time opportunity to further enhance my skills and make valuable contributions as a software engineer.
+Highly motivated and results-driven Data Engineering professional with a strong academic background and practical experience in software development. Student in Master of Science graduate in Information Technology from the University of Massachusetts, Boston, and a Bachelor of Computer Engineering degree holder from Gujarat Technological University, India, I possess a solid foundation in various programming languages, database management systems, and web technologies. I am actively seeking a full-time opportunity to further enhance my skills and make valuable contributions as a software engineer.
 
 
 ## 🛠 Skills
